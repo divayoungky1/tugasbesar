@@ -17,7 +17,7 @@
     <div id="logo">
 	 <center>
 	<img src="images/demo/apartment1.png"></a>
-      <h1><a href="index.html">Sewa Apartemen Malang</a>
+      <h1><a href="index.html">Sewa Tlogomas</a>
 	  </h1>
 	  </center>
     </div>
