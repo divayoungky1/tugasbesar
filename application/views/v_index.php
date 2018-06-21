@@ -127,11 +127,11 @@
       <ul class="nospace btmspace-30 linklist contact">
         <li><i class="fa fa-map-marker"></i>
           <address>
-          Jalan Baiduri Pandan &amp; 30, Malang, 65144
+          Jalan Baiduri Pandan No. 30, Malang Selatan, Kode pos 65144
           </address>
         </li>
-        <li><i class="fa fa-phone"></i> +62-812-9887-1221</li>
-        <li><i class="fa fa-envelope-o"></i> infoapartemen@gmail.com</li>
+        <li><i class="fa fa-phone"></i> +62-823-4567-8910</li>
+        <li><i class="fa fa-envelope-o"></i> infoapartemenmalang@gmail.com</li>
       </ul>
       <ul class="faico clear">
         <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
