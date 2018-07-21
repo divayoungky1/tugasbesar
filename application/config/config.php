@@ -23,7 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+<<<<<<< HEAD
 $config['base_url'] = 'http://localhost/sistemsewa2/';
+=======
+$config['base_url'] = 'http://localhost:8080/tugasbesar/';
+>>>>>>> 36860e656c03dae20634d16ce15eb15af9af4fb7
 
 /*
 |--------------------------------------------------------------------------
@@ -136,7 +140,12 @@ $config['subclass_prefix'] = 'MY_';
 | Note: This will NOT disable or override the CodeIgniter-specific
 |	autoloading (application/config/autoload.php)
 */
+<<<<<<< HEAD
 $config['composer_autoload'] = TRUE;
+=======
+$config['composer_autoload'] = 'vendor/autoload.php';
+
+>>>>>>> 36860e656c03dae20634d16ce15eb15af9af4fb7
 /*
 |--------------------------------------------------------------------------
 | Allowed URL Characters

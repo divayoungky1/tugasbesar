@@ -35,9 +35,12 @@
 		
       <li><a href="pages/sidebar-left.html">GALERI</a></li>
 
+<<<<<<< HEAD
       <li></li>
 	   <li><a href="login2/login.php">LOGIN USER</a></li>
 
+=======
+>>>>>>> 36860e656c03dae20634d16ce15eb15af9af4fb7
 	   <li></li>
 	   <li><a href="login/login.php">LOGIN ADMIN</a></li>
 
