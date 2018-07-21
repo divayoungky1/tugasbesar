@@ -1,0 +1,4 @@
+menambahkan auth di views dan controller
+
+mindah file pages
+

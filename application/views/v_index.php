@@ -17,7 +17,7 @@
     <div id="logo">
 	 <center>
 	<img src="images/demo/apartment1.png"></a>
-      <h1><a href="index.html">Sewa Apartemen Malang</a>
+      <h1><a href="index.html">East Java Apartement</a>
 	  </h1>
 	  </center>
     </div>
@@ -33,25 +33,11 @@
       <li class="active"><a href="index.html">BERANDA</a></li>
 	    <li></li>
 		
-      <li><a class="drop" href="#">GALERI</a>
-        <ul>
-		  <li><a href="pages/sidebar-left.html"></a></li>
-          <li><a href="pages/gallery.html"></a></li>
-          <li><a href="pages/full-width.html"></a></li>
-        </ul>
-      </li>
-        <ul>
-          <li><a href="#">Level 2</a></li>
-          <li><a class="drop" href="#">Level 2 + Drop</a>
-            <ul>
-              <li><a href="#"></a></li>
-              <li><a href="#"></a></li>
-              <li><a href="#"></a></li>
-            </ul>
-          </li>
-          <li><a href="#">Level 2</a></li>
-        </ul>
-      </li>
+      <li><a href="pages/sidebar-left.html">GALERI</a></li>
+
+      <li></li>
+	   <li><a href="login2/login.php">LOGIN USER</a></li>
+
 	   <li></li>
 	   <li><a href="login/login.php">LOGIN ADMIN</a></li>
 
@@ -87,19 +73,21 @@
       <p>Dibedakan Menjadi beberapa kelas</p>
     </div>
     <div class="group">
-      <article class="one_third first"><a href="#"><img class="btmspace-30" src="images/demo/01.jpg" alt=""></a>
+      <article class="one_third first"><a href="kelasa.php"><img class="btmspace-30" src="images/demo/01.jpg" alt=""></a>
         <h6 class="nospace heading">Kelas A</h6>
         <ul class="nospace meta">
-          <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+         
          
         </ul>
         <p>Di kamar ini terdapat&hellip;</p>
-        <footer class="nospace"><a class="btn" href="#">Read More</a></footer>
+        <footer class="nospace">
+		<a class="btn" href="<?php echo base_url(); ?>index.php/web/kelasa">Read More</a>
+		</footer>
       </article>
       <article class="one_third"><a href="#"><img class="btmspace-30" src="images/demo/02.jpg" alt=""></a>
         <h6 class="nospace heading">Kelas B</h6>
         <ul class="nospace meta">
-          <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+    
          
         </ul>
         <p>Di kamar ini terdapat&hellip;</p>
@@ -108,7 +96,7 @@
       <article class="one_third"><a href="#"><img class="btmspace-30" src="images/demo/03.jpg" alt=""></a>
         <h6 class="nospace heading">Kelas C</h6>
         <ul class="nospace meta">
-          <li><i class="fa fa-user"></i> <a href="#">Admin</a></li>
+ 
          
         </ul>
         <p>Di kamar ini terdapat&hellip;</p>
@@ -136,11 +124,11 @@
       <ul class="nospace btmspace-30 linklist contact">
         <li><i class="fa fa-map-marker"></i>
           <address>
-          Jalan Baiduri Pandan &amp; 30, Malang, 65144
+          Jalan Baiduri Pandan No. 30, Malang Selatan, Kode pos 65144
           </address>
         </li>
-        <li><i class="fa fa-phone"></i> +62-812-9887-1221</li>
-        <li><i class="fa fa-envelope-o"></i> infoapartemen@gmail.com</li>
+        <li><i class="fa fa-phone"></i> +62-823-4567-8910</li>
+        <li><i class="fa fa-envelope-o"></i> infoapartemenmalang@gmail.com</li>
       </ul>
       <ul class="faico clear">
         <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
