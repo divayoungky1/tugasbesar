@@ -111,7 +111,7 @@
   <article class="hoc cta clear"> 
 
     <h6 class="three_quarter first">Tertarik Menyewa Kamar Di Apartemen Kami ? </h6>
-    <footer class="one_quarter"><a class="btn" href="#">Pesan Sekarang &raquo;</a></footer>
+    <footer class="one_quarter"><a class="btn" href="login2/login.php">Pesan Sekarang &raquo;</a></footer>
 
   </article>
 </div>
